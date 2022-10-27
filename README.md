@@ -1,7 +1,13 @@
 <img src="https://camo.githubusercontent.com/ab4ad05166c64881a0cfe04f2c8951f720dda69d8014bf6365159e9cb726bd03/68747470733a2f2f7777772e637962657261726b2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f31312f446576656c6f7065722e6a7067">
 <h1 align="center">Hi I'm Tejesh Paul</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+<br/>
+<h1>Assignment-1 HTML CSS</h1>
+  <img src="new10.jpg">
+  <br/>
+  <h1>Assignment-2 Bootstrap</h1>
+  <img src="new11.jpg">
+  <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itskushal&label=Profile%20views&color=0e75b6&style=flat" alt="itskushal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itskushal" alt="itskushal" /></a> </p>
